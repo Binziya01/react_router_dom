@@ -14,6 +14,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route path="/" element={<Homepage/>}/>
+        <Route path="/react_router_dom" element={<Homepage/>}/>
         <Route path="/blogs" element={<Blogs/>}/>
         <Route path="*" element={<Error/>}/>
         <Route path="/contacts" element={<Contacts/>}/>
