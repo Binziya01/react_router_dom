@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react_router_dom/static/css/main.8163568b.css",
-    "main.js": "/react_router_dom/static/js/main.a2bead64.js",
-    "static/media/image1.png": "/react_router_dom/static/media/image1.71b4e2b54f46b499194b.png",
-    "static/media/image10.png": "/react_router_dom/static/media/image10.f94cd11176401524daad.png",
-    "static/media/image3.png": "/react_router_dom/static/media/image3.476b3477c1a3c6478a26.png",
-    "static/media/image14.avif": "/react_router_dom/static/media/image14.f1d8715cc3c59eccbe91.avif",
-    "static/media/image9.png": "/react_router_dom/static/media/image9.d7cde92103baedcc7de4.png",
-    "static/media/image13.jpg": "/react_router_dom/static/media/image13.13c2eb3405304f6dfa1c.jpg",
-    "static/media/image7.avif": "/react_router_dom/static/media/image7.1889e0e08f69f7623cdc.avif",
-    "static/media/image4.jpg": "/react_router_dom/static/media/image4.a489413d4c060f2482e5.jpg",
-    "static/media/Logo.png": "/react_router_dom/static/media/Logo.e0c50e0b1347440f8688.png",
-    "static/media/image11.png": "/react_router_dom/static/media/image11.5cf19985b7696acd5f32.png",
-    "static/media/image5.webp": "/react_router_dom/static/media/image5.c6baee9ac573e7c7a51e.webp",
-    "static/media/image8.gif": "/react_router_dom/static/media/image8.2b78c797633c4484119d.gif",
-    "static/media/Brand.png": "/react_router_dom/static/media/Brand.19ec19ab08cca88560a1.png",
-    "index.html": "/react_router_dom/index.html",
-    "main.8163568b.css.map": "/react_router_dom/static/css/main.8163568b.css.map",
-    "main.a2bead64.js.map": "/react_router_dom/static/js/main.a2bead64.js.map"
+    "main.css": "/static/css/main.8163568b.css",
+    "main.js": "/static/js/main.af6f0db5.js",
+    "static/media/image1.png": "/static/media/image1.71b4e2b54f46b499194b.png",
+    "static/media/image10.png": "/static/media/image10.f94cd11176401524daad.png",
+    "static/media/image3.png": "/static/media/image3.476b3477c1a3c6478a26.png",
+    "static/media/image14.avif": "/static/media/image14.f1d8715cc3c59eccbe91.avif",
+    "static/media/image9.png": "/static/media/image9.d7cde92103baedcc7de4.png",
+    "static/media/image13.jpg": "/static/media/image13.13c2eb3405304f6dfa1c.jpg",
+    "static/media/image7.avif": "/static/media/image7.1889e0e08f69f7623cdc.avif",
+    "static/media/image4.jpg": "/static/media/image4.a489413d4c060f2482e5.jpg",
+    "static/media/Logo.png": "/static/media/Logo.e0c50e0b1347440f8688.png",
+    "static/media/image11.png": "/static/media/image11.5cf19985b7696acd5f32.png",
+    "static/media/image5.webp": "/static/media/image5.c6baee9ac573e7c7a51e.webp",
+    "static/media/image8.gif": "/static/media/image8.2b78c797633c4484119d.gif",
+    "static/media/Brand.png": "/static/media/Brand.19ec19ab08cca88560a1.png",
+    "index.html": "/index.html",
+    "main.8163568b.css.map": "/static/css/main.8163568b.css.map",
+    "main.af6f0db5.js.map": "/static/js/main.af6f0db5.js.map"
   },
   "entrypoints": [
     "static/css/main.8163568b.css",
-    "static/js/main.a2bead64.js"
+    "static/js/main.af6f0db5.js"
   ]
 }
