@@ -21,7 +21,7 @@ const Navbar = () => {
 		 </Link> 
 		
 		<ul className={`flex flex-col lg:flex-row gap-10 items-center space-x-3  font-semibold absolute lg:static duration-300 ${extendNavbar? "left-1 top-24   px-3 pr-60 pl-20" : "left-[-100px] top-24"}`}>
-			<Link to="/" className="flex cursor-pointer hover:underline">
+			<Link to="/react_router_dom" className="flex cursor-pointer hover:underline">
 				Home
 			</Link>
 			<Link to="/blogs" className="flex hover:underline">
